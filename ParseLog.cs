@@ -31,7 +31,7 @@ namespace ConsoleApp6
                 Regex warnRe = new Regex(warnRegex);
                 Regex errorRe = new Regex(errorRegex);
 
-                using (StreamReader sr = new StreamReader("D:\\STSWebApiException.log"))
+                using (StreamReader sr = new StreamReader("D:\\LogFile.log.log"))
                 {
 
                     while ((line = sr.ReadLine()) != null)

@@ -24,10 +24,11 @@ print(path.current_path)
 
 <hr>
 # GroupByOwner.cs
+
 Implement a group_by_owners function that:
 •         Accepts a dictionary containing the file owner name for each file name.
 •         Returns a dictionary containing a list of file names for each owner name, in any order.
 For example, for dictionary {'Input.txt': 'Randy', 'Code.py': 'Stan', 'Output.txt': 'Randy'} the group_by_owners function should return {'Randy': ['Input.txt', 'Output.txt'], 'Stan': ['Code.py']}.
-![alt txt]()
+![alt txt](https://user-images.githubusercontent.com/45992595/115145272-58b47400-a06e-11eb-9573-6d340a96eef4.png)
 
 

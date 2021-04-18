@@ -4,7 +4,7 @@ Write a function that checks if a given word is a palindrome. Character case sho
 ![alt text](https://user-images.githubusercontent.com/45992595/115144493-9f07d400-a06a-11eb-9fba-90a378efcc92.png)
 <hr>
 
-#ChangeDirectory.cs
+# ChangeDirectory.cs
 Write a function that provides a change directory (cd) function for an abstract file system.
  
 Notes:
@@ -20,4 +20,5 @@ For example:
 path = Path('/a/b/c/d')
 path.cd('../x')
 print(path.current_path)
+![alt text](https://user-images.githubusercontent.com/45992595/115145029-53a2f500-a06d-11eb-9067-82223f3a2f90.png)
 

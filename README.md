@@ -23,8 +23,8 @@ print(path.current_path)
 ![alt text](https://user-images.githubusercontent.com/45992595/115145029-53a2f500-a06d-11eb-9067-82223f3a2f90.png)
 
 <hr>
-# GroupByOwner.cs
 
+# GroupByOwner.cs
 Implement a group_by_owners function that:
 •         Accepts a dictionary containing the file owner name for each file name.
 •         Returns a dictionary containing a list of file names for each owner name, in any order.
